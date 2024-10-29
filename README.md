@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Nachiket Gulve!
 
-<!--
-**Nachiket-Gulve/Nachiket-Gulve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**  
+- Bachelor of Engineering in Computer Science, DY Patil College, Akurdi, Pune
+- Data Analytics course at Masai School
 
-Here are some ideas to get you started:
+💼 **Skills**
+- **Programming Languages**: Python (Data Analysis and Machine Learning)
+- **Libraries & Frameworks**: Pandas, Matplotlib, Seaborn, NumPy, SkLearn
+- **Databases**: MySQL
+- **Visualization**: Power BI, Excel
+- **Other**: Web Scraping with Selenium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Projects**
+- **Inventory Analysis Dashboard**: Developed an interactive dashboard for real-time inventory management insights using Power BI, SQL, and Jupyter Notebook.
+- **Crime Analysis Dashboard**: Created a Power BI dashboard to analyze crime trends against SC in India, using Python for data cleaning and visualization.
+
+🌱 **Learning Goals**
+Currently deepening my knowledge in Machine Learning and advanced SQL.
+
+📫 **How to Reach Me**  
+- [LinkedIn](www.linkedin.com/in/nachiketgulve)  
+- [Email](nachiketgulve@gmail.com)
+
